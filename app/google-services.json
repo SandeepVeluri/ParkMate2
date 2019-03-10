@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "104484709967",
+    "firebase_url": "https://parkmate-baa3c.firebaseio.com",
+    "project_id": "parkmate-baa3c",
+    "storage_bucket": "parkmate-baa3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104484709967:android:ea21b31c7a883fb9",
+        "android_client_info": {
+          "package_name": "com.example.sandeepveluri.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104484709967-2htgq2n3fvu5sf1oghcvoh96gnikkb8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandeepveluri.myapplication",
+            "certificate_hash": "c7f9a26522e71aa47d29e1dab980b68dd79339ba"
+          }
+        },
+        {
+          "client_id": "104484709967-pv31cr90hjp84nkcv4pk3o8mkf1tda67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtWVj1AHX5PFc6Khn8_XICbagQmVZmLck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104484709967-pv31cr90hjp84nkcv4pk3o8mkf1tda67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104484709967:android:c4cefdcfbbc291c5",
+        "android_client_info": {
+          "package_name": "com.example.sandeepveluri.parkmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104484709967-29aidcpkpt2fmjc91i0jp385uutnvaal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandeepveluri.parkmate",
+            "certificate_hash": "c7f9a26522e71aa47d29e1dab980b68dd79339ba"
+          }
+        },
+        {
+          "client_id": "104484709967-pv31cr90hjp84nkcv4pk3o8mkf1tda67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtWVj1AHX5PFc6Khn8_XICbagQmVZmLck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104484709967-pv31cr90hjp84nkcv4pk3o8mkf1tda67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
